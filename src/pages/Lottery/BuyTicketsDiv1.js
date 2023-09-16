@@ -16,6 +16,7 @@ export function BuyTicketsDiv1(){
       <button className="buttom" id="buyticketsbuttom1" onClick={()=>
       handleClick()
       }>Buy tickets</button>
+      
       {isOpen && (
        <div className="buyTickets">
         <div className="buyTickets2">

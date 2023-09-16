@@ -85,7 +85,6 @@ function FinishedPools({ sortOption }) {
     
       return (
         <div className="poolcontent">
-          <div style={{ display: 'none' }}><CakeRow /></div>
           {sortedPools.map((pool, index) => (
             <FRow
               key={index}

@@ -12,7 +12,6 @@
             flex-direction: column;
             margin-top: 24px;
             width: 100%;
-            margin-bottom: 1.5rem;
             .title5{
                 height: 28px;
                 display: flex;
@@ -84,10 +83,8 @@
                                 color: var(--colors-secondary);
                                 font-weight: 600;
                                 line-height: 1.1;
+                                margin-bottom: 8px;
                                 font-size: 12px;
-                                @media screen and (min-width: 576px) {
-                                    margin-bottom: 8px;
-                                }
                             }
                             .fgbox-mid{
                                 gap: 4px;
@@ -129,10 +126,8 @@
                                 color: var(--colors-secondary);
                                 font-weight: 600;
                                 line-height: 1.1;
+                                margin-bottom: 8px;
                                 font-size: 12px;
-                                @media screen and (min-width: 576px) {
-                                    margin-bottom: 8px;
-                                }
                             }
                             .fgbox-mid{
                                 gap: 4px;
@@ -157,7 +152,6 @@
                             @extend .farmsg-box-h;
                             @media screen and (min-width: 576px) {
                                 border-left: 1px var(--colors-inputSecondary) solid;
-                                margin-bottom: 8px;
                         }
                         }
                         
