@@ -10,7 +10,14 @@
 .
 
 
+This is the first project I've done in a team during the Full-Stack Developer course by Develhope Academy. It consists in cloning a part of this website (https://pancakeswap.finance/). 
+We have cloned the following pages:
 
+1. Homepage
+2. Pools
+3. Trading Reward
+4. Lottery
+5. IFO
 
 
 .
